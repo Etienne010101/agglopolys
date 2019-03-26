@@ -13,7 +13,7 @@ output:
       countIncrementalSlides: false
 params:
   event: Culture générale des données
-  slug: Agglopolys/
+  slug: agglopolys/
 ---
 
 layout: true
@@ -962,7 +962,7 @@ Modéliser, c’est mettre en relation une *variable expliquée*
 
 - pour prédire (**machine learning, IA...**)
 
-### All models are wrong, some are useful
+### Tous les modèles sont faux, certains sont utiles
 
 ---
 ## Et le machine learning alors ?
